@@ -1,0 +1,3 @@
+class MainService {
+  static authService() {}
+}
